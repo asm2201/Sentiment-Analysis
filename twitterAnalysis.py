@@ -1,10 +1,10 @@
 import twitter
 
 # Replace with your actual Twitter API credentials
-consumer_key = 'cXDqbaFAmlLgMA48GhZZVMavz'
-consumer_secret = 'pHa89l3CtFFL5M8nj0AVgvGWg1p2eiOBTvRQE5MExK9g6zaaNn'
-access_token = '1747112324950061056-lRNNAB6NdUZWG191nOuhYrfSaLM7xh'
-access_token_secret = '1q8sdG6BK77zOMCyYXh5Hoh3cEP5WmbPJ6gZqch2WXdfr'
+consumer_key = 'your api key'
+consumer_secret = 'your api key secret'
+access_token = 'your access token'
+access_token_secret = 'your access token secret'
 
 api = twitter.Api(consumer_key,
                   consumer_secret,
